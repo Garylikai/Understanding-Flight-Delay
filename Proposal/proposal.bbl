@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{ar:britto_dresner_voltes}
+R.~Britto, M.~Dresner, and A.~Voltes.
+\newblock The impact of flight delays on passenger demand and societal welfare.
+\newblock {\em Transportation Research Part E: Logistics and Transportation
+  Review}, 48(2):460--469, March 2012.
+
+\bibitem{web:bts}
+{Bureau of Transportation Statitics}.
+\newblock On-time performance - reporting operating carrier flight delays at a
+  glance.
+\newblock \url{https://www.transtats.bts.gov/HomeDrillChart.asp}.
+\newblock Accessed: October 15, 2021.
+
+\bibitem{ar:carvalho_et_al}
+L.~Carvalho, A.~Sternberg, L.~M. Gonçalves, A.~B. Cruz, J.~A. Soares,
+  D.~Brandão, D.~Carvalho, and E.~Ogasawara.
+\newblock On the relevance of data science for flight delay research: a
+  systematic review.
+\newblock {\em Transport Reviews}, 41(4):499--528, December 2020.
+
+\bibitem{web:faa1}
+{Federal Aviation Adminstration}.
+\newblock Air traffic by the numbers.
+\newblock \url{https://www.faa.gov/air_traffic/by_the_numbers/}.
+\newblock Accessed: October 16, 2021.
+
+\bibitem{web:faa2}
+{Federal Aviation Adminstration}.
+\newblock Air traffic by the numbers 2020.
+\newblock
+  \url{https://www.faa.gov/air_traffic/by_the_numbers/media/Air_Traffic_by_the_Numbers_2020.pdf}.
+\newblock Accessed: October 16, 2021.
+
+\bibitem{web:faa3}
+{Federal Aviation Adminstration}.
+\newblock National airspace system.
+\newblock \url{https://www.faa.gov/air_traffic/nas/}.
+\newblock Accessed: October 16, 2021.
+
+\bibitem{ar:peterson_neels_barczi_graham}
+E.~B. Peterson, K.~Neels, N.~Barczi, and T.~Graham.
+\newblock The economic cost of airline flight delay.
+\newblock {\em Journal of Transport Economics and Policy}, 47(1):107--121,
+  January 2013.
+
+\end{thebibliography}
