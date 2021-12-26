@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final report.aux
+The style file: acl_natbib.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: refs.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+"" isn't a single character for entry web:bts5
+while executing---line 1941 of file acl_natbib.bst
+"" isn't a single character for entry web:bts1
+while executing---line 1941 of file acl_natbib.bst
+"" isn't a single character for entry web:bts3
+while executing---line 1941 of file acl_natbib.bst
+"" isn't a single character for entry web:bts2
+while executing---line 1941 of file acl_natbib.bst
+"" isn't a single character for entry web:bts4
+while executing---line 1941 of file acl_natbib.bst
+Warning--empty year in web:faa1
+Warning--empty year in web:statista
+You've used 10 entries,
+            3571 wiz_defined-function locations,
+            743 strings with 7532 characters,
+and the built_in function-call counts, 5719 in all, are:
+= -- 521
+> -- 237
+< -- 12
++ -- 84
+- -- 66
+* -- 317
+:= -- 929
+add.period$ -- 45
+call.type$ -- 10
+change.case$ -- 79
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 363
+empty$ -- 413
+format.name$ -- 82
+if$ -- 1244
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 71
+newline$ -- 61
+num.names$ -- 40
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 62
+quote$ -- 0
+skip$ -- 279
+stack$ -- 0
+substring$ -- 196
+swap$ -- 158
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 90
+warning$ -- 2
+while$ -- 33
+width$ -- 0
+write$ -- 138
+(There were 5 error messages)
