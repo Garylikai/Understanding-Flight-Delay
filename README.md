@@ -1,11 +1,11 @@
 # Understanding-Flight-Delay
 CSE 519: Data Science Fundamentals, Fall 2021
 
-Final Report. December 2, 2021
+Final Report: December 2, 2021
 
-Progress Report. November 11, 2021
+Progress Report: November 11, 2021
 
-Proposal. October 21, 2021
+Proposal: October 21, 2021
 
 - `Course Projects.pdf`: Project descriptions
 - `proposal.pdf`: Project proposal `pdf`
