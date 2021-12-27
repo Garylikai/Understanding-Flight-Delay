@@ -7,6 +7,7 @@ Progress Report. November 11, 2021
 
 Proposal. October 21, 2021
 
+- `Course Projects.pdf`: Project descriptions
 - `proposal.pdf`: Project proposal `pdf`
 - `progress report.pdf`: Project progress report `pdf`
 - `final report.pdf`: Project final report `pdf`
