@@ -1,22 +1,37 @@
-# Understanding-Flight-Delay
-CSE 519: Data Science Fundamentals, Fall 2021
+# Understanding U.S. Flight Delays
 
-Final Report: December 2, 2021
+A Fall 2021 CSE 519 project combining exploratory analysis and regression models to study U.S. airline delays.
 
-Progress Report: November 11, 2021
+## Questions
 
-Proposal: October 21, 2021
+The project examines:
 
-- `Course Projects.pdf`: Project descriptions
-- `proposal.pdf`: Project proposal `pdf`
-- `progress report.pdf`: Project progress report `pdf`
-- `final report.pdf`: Project final report `pdf`
-- `344582299_122019_4415_airline_delay_causes.csv`: Airline On-Time Arrival Performance Data (January 2012 - December 2019)
-- `772082719_T_CARRIER_DECODE.csv`: Airline Carrier Group Data
-- `1063637876_82021_5125_airline_delay_causes.csv`: Airline On-Time Arrival Performance Data (January 2020)
-- `L_BUSY_AIRPORTS.csv`: Airport Busyness Data
-- `L_CARRIER_HISTORY.csv`: Airline Carrier History Data
-- `L_MARKETING_CARRIERS.csv`: Airline Marketing Carrier Data
-- `Project.ipynb`: Project Jupyter Notebook
-- `Project.pdf`: Project Jupyter Notebook `pdf`
-- `Project.py`: Project Python code
+- monthly and annual patterns in flight-delay rates;
+- differences between high-traffic and other airports;
+- differences across airline and carrier-group classifications;
+- the relationship between airline establishment history and delays; and
+- prediction of total delayed minutes.
+
+The analysis uses U.S. Department of Transportation Bureau of Transportation Statistics data from 2012–2019 for model development and January 2020 for a temporal prediction check.
+
+## Models and reported results
+
+The notebook compares a linear baseline with ridge regression, k-nearest-neighbor regression, and a multilayer perceptron. On the random held-out test set, the tuned MLP had the lowest reported RMSE, approximately 2,873. On the January 2020 temporal check, ridge regression had the lowest reported RMSE, approximately 2,075, compared with 2,516 for k-NN and 2,607 for MLP.
+
+The report also found that the three January 2020 prediction series were not statistically distinguishable under its selected pairwise tests. These are historical observational and predictive results, not causal claims about airports or carriers.
+
+## Repository contents
+
+- `Project.ipynb` — data preparation, visualization, modeling, and evaluation
+- `final report.pdf` — project documentation
+- `344582299_122019_4415_airline_delay_causes.csv` — 2012–2019 modeling data
+- `1063637876_82021_5125_airline_delay_causes.csv` — January 2020 evaluation data
+- `L_BUSY_AIRPORTS.csv`, `L_CARRIER_HISTORY.csv`, `L_MARKETING_CARRIERS.csv`, and `772082719_T_CARRIER_DECODE.csv` — supporting lookup data
+
+## Data source
+
+Data were obtained from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/). Add exact table/query citations and download dates for each saved extract so others can verify provenance.
+
+## Author
+
+Kai Li.
