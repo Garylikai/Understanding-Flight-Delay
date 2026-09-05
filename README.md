@@ -30,7 +30,7 @@ The report also found that the three January 2020 prediction series were not sta
 
 ## Data source
 
-Data were obtained from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/). Add exact table/query citations and download dates for each saved extract so others can verify provenance.
+Data were obtained from the [Bureau of Transportation Statistics](https://www.transtats.bts.gov/).
 
 ## Author
 
